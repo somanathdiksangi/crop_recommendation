@@ -24,7 +24,7 @@ How to Use
 2. Load the dataset in your Python environment:  
 
    import pandas as pd
-   data = pd.read_csv('dataset/your_dataset.csv')
+   data = pd.read_csv('dataset/Crop_recommendation (2).csv')
    print(data.head())
    
 3. Train the model or use the pre-trained version to predict crops.  
