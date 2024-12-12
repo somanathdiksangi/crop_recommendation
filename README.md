@@ -7,13 +7,18 @@ What's Inside
 - A dataset folder with the data used for training and testing.  
 - Easy-to-follow scripts for training and using the model.  
 
-Dataset Details  
-The dataset folder includes structured data with features like:  
-- Soil type  
-- Temperature  
-- Humidity  
-- Rainfall  
-- Crop types  
+Dataset Details
+The dataset folder includes structured data with the following features:
+
+- N (Nitrogen content in the soil)
+- P (Phosphorus content in the soil)
+- K (Potassium content in the soil)
+- Temperature (Average temperature)
+- Humidity (Average humidity level)
+- pH (Soil pH level)
+- Rainfall (Amount of rainfall)
+- Label (Crop type recommendation based on the conditions)
+ 
 
 How to Use  
 1. Clone this repository:  
