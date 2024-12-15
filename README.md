@@ -1,4 +1,4 @@
-Crop Recommendation  
+Crop Recommendation system
 
 A simple machine learning project to recommend the best crop based on soil, weather, and other data.  
 
